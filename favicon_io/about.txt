@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Antic Didone
+- Font Author: Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Antic Didone.
+- Font Source: http://fonts.gstatic.com/s/anticdidone/v9/RWmPoKKX6u8sp8fIWdnDKqDiqYsGBGBzCw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
